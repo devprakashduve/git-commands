@@ -1,0 +1,25 @@
+Git commands
+
+# git status
+
+=> uses to know the file/foldr status
+
+# git add --a
+
+=> uses to add all the file at a time , also can be used toadd one file and changes
+
+# git add  tutorial.txt
+
+=> use for all one file only
+
+# git commit -m "comment line which is suitable for new update"
+
+=> it will commit user file and it will show message "working tree clean"
+
+# git log
+
+=> if need to know who and when commited so it will show how many and when commitment done
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++==========================================================================================
+
