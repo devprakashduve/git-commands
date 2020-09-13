@@ -26,3 +26,8 @@ Git commands
 # rm -rf .git
 
 => this command wiil remove tracking feature from foldr and it will become normal folder which can be again initialized for tracking 
+
+#git clone https://github.com/devprakashduve/Test2.git
+
+=> uses to clone repositery in localmachine
+
