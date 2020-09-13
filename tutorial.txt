@@ -23,3 +23,6 @@ Git commands
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++==========================================================================================
 
+# rm -rf .git
+
+=> this command wiil remove tracking feature from foldr and it will become normal folder which can be again initialized for tracking 
