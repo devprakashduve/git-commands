@@ -29,5 +29,31 @@ Git commands
 
 #git clone https://github.com/devprakashduve/Test2.git
 
-=> uses to clone repositery in localmachine
+=> uses to clone repositery in local machine
+
+# git branch
+
+=> use to know the available branches
+
+# git checkout -b bugtfix
+
+=> use to create new branch
+
+# git checkout master
+
+=> use to swith branch
+
+# git remote add origin https://github.com/devprakashduve/git-commands.git 
+
+=> use to add remote repositery 
+
+# git remote -v 
+
+=> use to know the remote path 
+
+# git push - origin master
+
+=> use to push update in  (master) repositery
+
+
 
